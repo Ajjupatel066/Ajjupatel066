@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ajjupatel066
 - 👀 I’m interested in Software Developer 
 - 🌱 I’m currently learning Full Stack Development 
-- 💞️ I’m looking to collaborate on Website Development 
+- 💞️ I’m looking to collaborate on Web Development 
 - 📫 How to reach me ajithpatel066@gmail.com
 
 <!---
