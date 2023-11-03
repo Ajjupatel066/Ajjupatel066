@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 **I’m currently working on:**  <br>Improving my Skills<br><br>👯 **I’m looking to collaborate on:**  <br>Fullstack projects<br><br>🌱 **I’m currently learning:**  <br>Building clone projects.<br><br>💬 **Ask me about:**  <br>JavaScript, React, Node.js, and any general software development questions.<br><br>⚡ **Fun fact:**  <br>I love creating web applications.
+🔭 **I’m currently working on:**  <br>Building Covid Dashboard Web Application.<br><br>👯 **I’m looking to collaborate on:**  <br>Fullstack projects<br><br>🌱 **I’m currently learning:**  <br>MERN Stack.<br><br>💬 **Ask me about:**  <br>JavaScript, React, Node.js, and any general software development questions.<br><br>⚡ **Fun fact:**  <br>I love creating web applications.
 
 
 ## 🌐 Socials:
